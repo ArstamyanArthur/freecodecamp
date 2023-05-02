@@ -1,6 +1,6 @@
 # Demo
 
-Some description! hell
+Some description!
 
 ## Subhead
 
